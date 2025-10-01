@@ -58,7 +58,7 @@ bootstrap-react/
 ## Запуск проекта
 
 1. Клонировать репозиторий:
-git clone https://github.com/helloGalina/my-project.git
+git clone git clone https://github.com/helloGalina/react-bootstrap-cat-card.git
 2. Установить зависимости:
 npm install
 3. Запустить локально:
