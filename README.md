@@ -63,4 +63,4 @@ git clone https://github.com/helloGalina/my-project.git
 npm install
 3. Запустить локально:
 npm start
-Перейти в браузере по адресу http://localhost:5173/
+4. Перейти в браузере по адресу http://localhost:5173/
